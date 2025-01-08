@@ -1,0 +1,9 @@
+[submodule "unicorn"]
+	path = unicorn
+	url = https://github.com/unicorn-engine/unicorn
+[submodule "Blackbone"]
+	path = Blackbone
+	url = https://github.com/DarthTon/Blackbone
+[submodule "capstone"]
+	path = capstone
+	url = https://github.com/capstone-engine/capstone
